@@ -1,0 +1,23 @@
+Objective:
+Using the features of a loan dataset to classify the loan taken by the person as good or bad
+
+Rules:
+1. You can code the problem in Python/R.
+2. Well commented code is required.Code should contain Data preprocessing,data analysis and proper machine learning pipeline ,Do with 2-3 algorithms,compare the model and choose the best one.
+3. Summarise your finding.
+
+
+
+
+---------------- Description ----------------
+
+Age (numeric)
+Sex (text: male, female)
+Job (numeric: 0 - unskilled and non-resident, 1 - unskilled and resident, 2 - skilled, 3 - highly skilled)
+Housing (text: own, rent, or free)
+Saving accounts (text - little, moderate, quite rich, rich)
+Checking account (numeric)
+Credit amount (numeric)
+Duration (numeric, in month)
+Purpose (text: car, furniture/equipment, radio/TV, domestic appliances, repairs, education, business, vacation/others)
+Risk (Good/Bad)
